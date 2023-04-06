@@ -5,7 +5,7 @@ from sib_api_v3_sdk.rest import ApiException
 from pprint import pprint
 
 configuration = sib_api_v3_sdk.Configuration()
-configuration.api_key['api-key'] = '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'
+configuration.api_key['api-key'] = 'HNE T7OT EL KEY ELI 5THITOU FIL API SECTION'
 
 api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
 subject = "hne subject "
